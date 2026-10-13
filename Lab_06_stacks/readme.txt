@@ -1,0 +1,4 @@
+Lab_06_stacks
+NAME : AFNAN AHMED (2502454)
+BSDSev F-25
+DS LAB 06
